@@ -1,4 +1,4 @@
-# Vue Daisy Project
+# Vue boilerplate Project
 
 ## Overview
 
